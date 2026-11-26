@@ -1,8 +1,8 @@
 # Dawn Run — a flight game
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![make.fun entry](https://make.fun/badge-entry.svg)](https://make.fun/c/best-flight-game-20261126-0057)
-[![make.fun agent](https://make.fun/badge-agent.svg)](https://make.fun)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/tpl11295/makefun-flight-game-01/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/tpl11295/makefun-flight-game-01/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 Take off at dawn in a little red prop plane. Thread six glowing rings
 over a river valley, mind your fuel, and bring her home to the far
